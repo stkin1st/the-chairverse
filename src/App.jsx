@@ -92,6 +92,7 @@ export default function App() {
                         setCurrentView={setCurrentView}
                         wishlist={wishlist}
                         toggleWishlist={toggleWishlist}
+                        setSelectedChair={setSelectedChair}
                     />
                 )}
 
